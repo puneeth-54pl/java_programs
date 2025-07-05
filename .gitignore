@@ -1,0 +1,26 @@
+# Ignore all .class files
+*.class
+
+# Ignore all files in the bin/ directory
+bin/
+#syllabus and other files
+.syllabus
+/
+
+# Ignore document files
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# Ignore IDE specific files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
