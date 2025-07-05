@@ -15,6 +15,7 @@ bin/
 *.ppt
 *.xlsx
 *.xls
+*.png
 
 # Ignore IDE specific files
 *.iml
